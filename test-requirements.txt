@@ -9,3 +9,6 @@ odoo14-addon-ssi-m2o-configurator-mixin
 odoo14-addon-ssi-product
 odoo14-addon-queue-job
 odoo14-addon-queue-job-batch
+odoo14-addon-ssi-account-account-m2o-configurator-mixin
+odoo14-addon-ssi-account-journal-m2o-configurator-mixin
+odoo14-addon-ssi-res-partner-m2o-configurator-mixin
