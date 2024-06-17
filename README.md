@@ -14,7 +14,11 @@
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[ssi_consolidated_financial_statement](ssi_consolidated_financial_statement/) | 14.0.1.0.0 |  | Consolidated Financial Statement Worksheet
 
 [//]: # (end addons)
 
